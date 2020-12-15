@@ -1,5 +1,5 @@
-module github.com/gin-gonic/gin
+module pingPong
 
 go 1.15
 
-require github.com/gin-gonic/gin
+require github.com/gin-gonic/gin v1.6.3
