@@ -1,3 +1,3 @@
-module github.com/gin-gonic/gin
+module pingPong
 
 go 1.15
